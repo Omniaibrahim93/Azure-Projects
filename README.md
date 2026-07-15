@@ -6,7 +6,7 @@ This repository contains hands-on Microsoft Azure labs covering core infrastruct
 
 | # | Lab | Description | Status |
 |---|-----|-------------|--------|
-| 01 | [Azure VM](Azure-VM/) | Deploy and manage Azure Virtual Machines | ✅ Completed |
+| 01 | [Azure VM](Azure-VM) | Deploy and manage Azure Virtual Machines | ✅ Completed |
 | 02 | Virtual Network | Create VNets, Subnets, DNS settings, and network segmentation | ⏳ Planned |
 | 03 | Network Security Groups (NSG) | Configure inbound/outbound security rules and traffic filtering | ⏳ Planned |
 | 04 | Load Balancer | Deploy Azure Load Balancer and distribute traffic across virtual machines | ⏳ Planned |
